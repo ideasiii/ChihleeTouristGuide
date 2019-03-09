@@ -8,6 +8,7 @@
     tools:context=".ActivityIntroduce">
 
     <RelativeLayout
+        android:id="@+id/rlMain"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@drawable/pic01"
